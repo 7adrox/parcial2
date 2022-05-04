@@ -1,0 +1,5 @@
+﻿  mysql_c.cpp
+C:\Users\USUARIO\Desktop\mysql_c\mysql_c\mysql_c.cpp(41,187): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\USUARIO\Desktop\mysql_c\mysql_c\mysql_c.cpp(52,34): error C2039: "cstr": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\USUARIO\Desktop\mysql_c\mysql_c\mysql_c.cpp(57,31): error C2059: error de sintaxis: '<<'
